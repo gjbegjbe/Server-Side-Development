@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6fbd5bd-2c2d-4056-8193-9d31ab5f853e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1pA4Bzee319QtDGaAtgEufG97Qd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/schema/exampledb.sql" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in section1">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in section1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tool" />
+      <option name="MAIN_CLASS_NAME" value="com.tool.CalculationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMockitoTest.testMockitoInterface" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tool" />
+      <option name="MAIN_CLASS_NAME" value="com.tool.MyMockitoTest" />
+      <option name="METHOD_NAME" value="testMockitoInterface" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.dao.UserDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com in section1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in section1" />
+        <item itemvalue="JUnit.com in section1" />
+        <item itemvalue="JUnit.MyMockitoTest.testMockitoInterface" />
+        <item itemvalue="JUnit.CalculationTest" />
+        <item itemvalue="JUnit.UserDaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6fbd5bd-2c2d-4056-8193-9d31ab5f853e" name="Default Changelist" comment="" />
+      <created>1614612431667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614612431667</updated>
+      <workItem from="1614612432833" duration="587000" />
+      <workItem from="1614613026038" duration="891000" />
+      <workItem from="1614613936515" duration="968000" />
+      <workItem from="1614667883899" duration="1319000" />
+      <workItem from="1614670789060" duration="182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="164" key="#Notifications" timestamp="1614613945959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="382" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1614613945959" />
+    <state x="304" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614668549442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="304" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1614668549442" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1614614566040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614614566040" />
+    <state width="1237" height="364" key="GridCell.Tab.0.bottom" timestamp="1614670971959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="364" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614670971959" />
+    <state width="1237" height="364" key="GridCell.Tab.0.center" timestamp="1614670971959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="364" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1614670971959" />
+    <state width="1237" height="364" key="GridCell.Tab.0.left" timestamp="1614670971959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="364" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1614670971959" />
+    <state width="1237" height="364" key="GridCell.Tab.0.right" timestamp="1614670971959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="364" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614670971959" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1614668477624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1614668477624" />
+  </component>
+</project>
